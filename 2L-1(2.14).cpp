@@ -49,7 +49,7 @@ void Weekday(int All)
 int _tmain(int argc, _TCHAR* argv[])
 {
 	int day, mounth, year, All;
-	char date[10], M[13][10] = {{"X"},{"January"},{"February"},{"March"},{"April"},{"мая"},{"June"},{"July"},{"August"},{"September"},{"October"},{"November"},{"Decemder"}};
+	char date[10], M[13][10] = {{"X"},{"January"},{"February"},{"March"},{"April"},{"Г¬Г Гї"},{"June"},{"July"},{"August"},{"September"},{"October"},{"November"},{"Decemder"}};
 	Input:
 	cout<<"\nDate(XX.XX.XXXX)=";
 	cin>>date;
