@@ -127,7 +127,7 @@ bool CheckNumber(char Num[16])
 	return false;
 }
 
-int Char16ToInt(char Num[16])                 // Не понадобилось
+int Char16ToInt(char Num[16])                 // ГЌГҐ ГЇГ®Г­Г Г¤Г®ГЎГЁГ«Г®Г±Гј
 {
 	int Res = 0, a = strlen(Num);
 	for (int i = 0; i < strlen(Num); i++)
@@ -173,7 +173,7 @@ void Expand(ChainNumber Chain, char Num[])
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	char L[3], Num[16];  // L - "рычаг"
+	char L[3], Num[16];  // L - "Г°Г»Г·Г ГЈ"
 	bool B;
 	while(1)
 	{
