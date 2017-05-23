@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.261,E:\2Sem\Programming.C++\Test2\MainUnit.dfm=C:\Users\vasil\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.239,E:\2Sem\Programming.C++\Test2\Article.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.189,E:\2Sem\Programming.C++\Test2\Unit1.cpp=E:\2Sem\Programming.C++\Test2\Article.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.189,E:\2Sem\Programming.C++\Test2\Unit1.dfm=E:\2Sem\Programming.C++\Test2\Article.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.189,E:\2Sem\Programming.C++\Test2\Unit1.h=E:\2Sem\Programming.C++\Test2\Article.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.833,=C:\Users\vasil\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.261,E:\2Sem\Programming.C++\Test2\MainUnit.h=C:\Users\vasil\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.478,E:\2Sem\Programming.C++\Test2\Unit1.h=E:\2Sem\Programming.C++\Test2\Article.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.261,E:\2Sem\Programming.C++\Test2\MainUnit.cpp=C:\Users\vasil\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.906,E:\2Sem\Programming.C++\Test2\Main.cbproj=C:\Users\vasil\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.335,=C:\Users\vasil\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.282,E:\2Sem\Programming.C++\Test2\Kurs.h=C:\Users\vasil\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.478,E:\2Sem\Programming.C++\Test2\Unit1.cpp=E:\2Sem\Programming.C++\Test2\Article.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.633,=E:\2Sem\Programming.C++\Test2\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.787,E:\2Sem\Programming.C++\Test2\Main.h=E:\2Sem\Programming.C++\Test2\Kurs.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.737,=E:\2Sem\Programming.C++\Test2\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
