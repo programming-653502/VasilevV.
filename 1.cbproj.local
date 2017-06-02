@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.006,C:\Users\vasil\OneDrive\Документы\RAD Studio\Projects\Project1.cbproj=E:\2Sem\Programming.C++\6L\1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.286,=C:\Users\vasil\OneDrive\Документы\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.751,C:\Users\vasil\OneDrive\Документы\RAD Studio\Projects\File1.cpp=E:\2Sem\Programming.C++\6L\MainFile.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.079,=C:\Users\vasil\OneDrive\Документы\RAD Studio\Projects\AppletModule1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.588,=C:\Users\vasil\OneDrive\Документы\RAD Studio\Projects\File1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
